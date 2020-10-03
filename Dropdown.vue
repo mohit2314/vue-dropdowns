@@ -151,6 +151,10 @@
   white-space: nowrap;
   text-decoration: none;
 }
+
+.dropdown-menu li:nth-child(2n-1) {
+  background-color: #e9e9e9;
+}
 .dropdown-menu > li > a:hover {
   background: #efefef;
   color: #409FCB;
